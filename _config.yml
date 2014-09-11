@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
+title:            The of Process of coding
 locale:           en_US
-url:              http://lcustodio.github.io
+url:              http://luiscustodio.com
 
 
 # Jekyll configuration
@@ -36,7 +36,7 @@ owner:
   google:
   bing-verify: 
   github: lcustodio
-  stackoverflow:
+  stackoverflow: 139637
   linkedin:
   instagram: 
   lastfm:
