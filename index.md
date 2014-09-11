@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+excerpt: "luis custodio blog, be welcome. questions? email me."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  credit: Luis Custodio - 2014
+  creditlink: http://luiscustodio.com
 ---
