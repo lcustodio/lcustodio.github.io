@@ -2,8 +2,8 @@
 
 title:            The of Process of coding
 locale:           en_US
-url:              http://luiscustodio.com
-
+#url:              http://luiscustodio.com
+url:
 
 # Jekyll configuration
 
@@ -29,22 +29,34 @@ owner:
   name: Luis Custodio
   avatar: bio-photo.jpg
   bio: "A automation oriented developer, travelling the world"
-  email: me@luiscustodio.com
+  email: blog@luiscustodio.com
   disqus-shortname: 
   twitter: lcustodio
-  facebook: luisfcustodio
+  facebook:
   google:
-  bing-verify: 
+  bing-verify:
   github: lcustodio
-  stackoverflow: 139637
-  linkedin:
-  instagram: 
-  lastfm:
-  tumblr:
-  pinterest:
-  foursquare:
-  steam:
-  dribbble:
+  stackoverflow: http://stackoverflow.com/users/139637/custodio
+  linkedin: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-43220470-1'
+  getclicky :
+    site_id :
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

@@ -1,9 +1,9 @@
 ---
 layout: home
 excerpt: "luis custodio blog, be welcome. questions? email me."
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [javascript, c#, blog, continuous integration, ci, automation]
 image:
-  feature: texture-feature-01.jpg
+  feature: sample-image-8.jpg
   credit: Luis Custodio - 2014
-  creditlink: http://luiscustodio.com
+  creditlink: http://luiscustodio.com/
 ---
