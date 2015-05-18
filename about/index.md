@@ -7,21 +7,21 @@ comments: true
 
 image:
   feature: montreal01.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  credit: Luis Custodio - Montreal
+  creditlink: http://luiscustodio.com/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Welcome to my personal blog. Who am I? 
 
-## Minimal Mistakes is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+Luis Custodio is an software craftsman. Currently working for Etelesolv in Montreal, Canada.
 
+Most of the working time is spend with Web Applications, I've being work with all sort of languages both on back and front end.
+I've being working with object oriented programming for multiple years and being using functional programming in some side projects.  
+When I'm not developing some web application, I play with statistics using R, or writing down some ideas in how to improve deployment and continuous delivery process.
+
+Already build a few deployment models for different kind of application. and gets strongly annoyed by the expression "need to done by hand", hates repetitive work, automation is a must.
+
+I've being taking photos here and there, I fill the blog with random photos around the world.
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>

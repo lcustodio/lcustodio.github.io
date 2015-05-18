@@ -7,7 +7,8 @@ url:
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+#permalink:   /:categories/:title/
+permalink:   pretty
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -34,6 +35,7 @@ owner:
   twitter: lfcustodio
   facebook:
   google:
+    analytics: 'UA-43220470-1'
   bing-verify:
   github: lcustodio
   stackoverflow: 139637/custodio
@@ -50,13 +52,6 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
-
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-43220470-1'
-  getclicky :
-    site_id :
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
