@@ -9,21 +9,14 @@ url:
 
 #permalink:   /:categories/:title/
 permalink:   pretty
-markdown:    kramdown
+markdown: redcarpet
 highlighter: pygments
+
 sass:
   sass_dir: _sass
   style: compressed
 gems:
   - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
 
 # Site owner
 owner:
@@ -31,7 +24,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "A automation oriented developer, travelling the world"
   email: blog@luiscustodio.com
-  disqus-shortname: 
+  disqus-shortname:
   twitter: lfcustodio
   facebook:
   google:
