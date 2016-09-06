@@ -9,7 +9,7 @@ url:
 
 #permalink:   /:categories/:title/
 permalink:   pretty
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 sass:
