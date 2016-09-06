@@ -10,7 +10,7 @@ url:
 #permalink:   /:categories/:title/
 permalink:   pretty
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 sass:
   sass_dir: _sass
