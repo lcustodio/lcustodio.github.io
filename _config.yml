@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            The of Process of coding
+title:            const blog = [...posts]
 locale:           en_US
 url:              https://luiscustodio.com
 #url:
