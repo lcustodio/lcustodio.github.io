@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lcustodio blog. Who am I?
-tags: [about, Jekyll, theme, responsive]
+tags: [about, luiscustodio, lcustodio, xp, software, craftsmanship, agile]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 
@@ -11,12 +11,12 @@ image:
   creditlink: http://luiscustodio.com/
 ---
 
-Luis Custodio is an software craftsman. Currently working for Etelesolv in Montreal, Canada.
+Experienced Software Engineer with a demonstrated history of working in a wide range of industries from electrical and electronic manufacturing industry to supply chain automation and business process management across start-ups in North, South America and Europe. Recently worked with teams distributed across three time zones.
 
-Most of the working time is spend with Web Applications, I've being work with all sort of languages both on back and front end.
-I've being working with object oriented programming for multiple years and being using functional programming in some side projects.  
-When I'm not developing some web application, I play with statistics using R, or writing down some ideas in how to improve deployment and continuous delivery process.
+## Practices
 
-Already build a few deployment models for different kind of application. and gets strongly annoyed by the expression "need to done by hand", hates repetitive work, automation is a must.
+Focused on practices and building the right things in the right way. This includes software craftsmanship, XP, CI/CD.
 
-I've being taking photos here and there, I fill the blog with random photos around the world.
+## Projects
+
+Being involved in a variety of projects I had the chance to work at many tiers of development stack. From reading RFID tags, adjusting antennas, re-writing drivers, to distributed databases deployed on scale. Always looking for a good team, good practices and space for deliver value.

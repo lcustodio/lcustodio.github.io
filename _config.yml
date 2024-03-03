@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title:            const blog = [...posts]
-locale:           en_US
-url:              https://luiscustodio.com
+title: const blog = [...posts]
+locale: en_US
+url: https://luiscustodio.com
 #url:
 
 # Jekyll configuration
 
 #permalink:   /:categories/:title/
-permalink:   pretty
+permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
@@ -28,11 +28,11 @@ owner:
   twitter: lfcustodio
   facebook:
   google:
-    analytics: 'UA-43220470-1'
+    analytics: "UA-43220470-1"
   bing-verify:
   github: lcustodio
   stackoverflow: 139637/custodio
-  linkedin: #username
+  linkedin: luiscustodio
   xing: #username
   instagram: #username
   lastfm: #username
@@ -47,4 +47,26 @@ owner:
   flickr: #username
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude:
+  [
+    "lib",
+    "config.rb",
+    "Capfile",
+    "config",
+    "log",
+    "Rakefile",
+    "Rakefile.rb",
+    "tmp",
+    "less",
+    "*.sublime-project",
+    "*.sublime-workspace",
+    "test",
+    "spec",
+    "Gruntfile.js",
+    "package.json",
+    "node_modules",
+    "Gemfile",
+    "Gemfile.lock",
+    "LICENSE",
+    "README.md",
+  ]
