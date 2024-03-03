@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: const blog = [...posts]
+title: Impact + Outcome over output
 locale: en_US
 url: https://luiscustodio.com
 #url:
@@ -22,7 +22,7 @@ gems:
 owner:
   name: Luis Custodio
   avatar: bio-photo.jpg
-  bio: "A automation oriented developer, travelling the world"
+  bio: "XP | Software Craftsperson"
   email: blog@luiscustodio.com
   disqus-shortname:
   twitter: lfcustodio
