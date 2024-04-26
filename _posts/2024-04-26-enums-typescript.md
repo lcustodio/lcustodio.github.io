@@ -42,5 +42,5 @@ for (const notificationId of Object.values(NotificationType) as Array<number>) {
 
 ```
 Value 1
-Value 1
+Value 2
 ```
